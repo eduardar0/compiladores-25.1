@@ -64,4 +64,4 @@ if __name__ == "__main__":
     tree_ = transformer.transform(tree)
     
     print("-" * 10)
-    pprint(tree_)
+    print(tree_)
