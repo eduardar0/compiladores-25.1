@@ -65,3 +65,5 @@ A P1 irá abordar os seguintes tópicos:
 Os vídeos disponibilizados pelo professor são ótimos complementos para fixar os conceitos — especialmente sobre operadores, análise sintática e regex.
 
 Bons estudos! 🚀
+
+https://www.youtube.com/live/gzY-CTY4msg
